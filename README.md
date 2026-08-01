@@ -1,0 +1,9 @@
+# nodejs-sb
+
+A Node.js service for managing proxy node subscriptions.
+
+## Features
+
+- Node subscription management
+- Auto deployment of proxy services
+- Environment variable based configuration
