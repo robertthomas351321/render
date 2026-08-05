@@ -14,3 +14,18 @@ A Node.js service for managing proxy node subscriptions.
 
 - Node.js >= 14
 - npm
+
+## Quick Start
+
+```bash
+npm install
+npm start
+```
+
+## Environment Variables
+
+| Variable | Description |
+|----------|-------------|
+| `PORT` | Server port (default: 3000) |
+| `UUID` | Client UUID |
+| `ARGO_DOMAIN` | Argo tunnel domain |
