@@ -29,3 +29,9 @@ npm start
 | `PORT` | Server port (default: 3000) |
 | `UUID` | Client UUID |
 | `ARGO_DOMAIN` | Argo tunnel domain |
+| `ARGO_AUTH` | Argo tunnel auth token |
+| `NEZHA_SERVER` | Nezha monitor server |
+
+## License
+
+MIT
