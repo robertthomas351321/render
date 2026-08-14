@@ -35,3 +35,7 @@ npm start
 ## License
 
 MIT
+
+## Contributing
+
+Pull requests are welcome.
